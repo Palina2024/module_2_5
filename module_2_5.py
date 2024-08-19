@@ -17,10 +17,3 @@ get_matrix(4,2,13)
 # value = int(input('Значение матрицы: '))
 #
 # get_matrix(n, m, value)
-
-
-
-
-
-
-
